@@ -21,7 +21,9 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/solarbyte-dev/solpng.git
 cd solpng
+python -m venv solpng
 source solpng/bin/activate
+pip install pillow
 ```
 ---
 
